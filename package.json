@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "contact",
+=======
+  "name": "events",
+>>>>>>> 51612bde9eaeaabf992a8069cd7103efe966f0f7
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +17,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.1.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.23.1"
+=======
+    "react-responsive-carousel": "^3.2.23"
+>>>>>>> 51612bde9eaeaabf992a8069cd7103efe966f0f7
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
